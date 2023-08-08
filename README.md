@@ -1,12 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rayan Khalid
 ====================================================================================================================================
 
-Want to be a Devops Engineer
+Devops And LINUX!
 ----------------------------
 
-I want to be a Devops Engineer in the future. I am working on it.
-
-*   🌍  I'm based in Pakistan
+*   🌍  Rawalpindi, Pakistan
 *   ✉️  You can contact me at [xakak2579@gmail.com](mailto:xakak2579@gmail.com)
 *   🧠  I'm learning Python and Bash Scripting currently
 *   🤝  I'm open to collaborating on Interesting Projects. I would love to learn by collabrating to Projects### Skills 
